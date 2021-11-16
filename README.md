@@ -1,1 +1,1 @@
-# Bell-Curve
+# Bell Curve
